@@ -30,3 +30,8 @@ It has custom styling besides the Bootstrap to attain the niche of the website
 
 JavaScript file:
 It mainly consists of hover function to give the logo on the image and toggle its display to none as you hover it to make the photos reactive
+
+Last but not least
+
+PHP file:
+It is only for the deployment of the HTML file into Heroku since PHP is supported by Heroku.
