@@ -1,6 +1,8 @@
 # quantumhunts-task-3
 Task #3 of the Quantumhunts Internship Program 
 
+https://quantumhunts-task-3.herokuapp.com/
+
 The following task was to:
 1. You have 10 images of varying sizes (width not equal to height) on the website. You need to resize them without the images being streched. Its acceptable to crop the corners
 2. On each image display a small icon (image) at the center of the image.
